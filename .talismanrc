@@ -1,2 +1,8 @@
 scopeconfig:
     - scope: node
+
+
+fileignoreconfig:
+- filename: bin/www
+  checksum: 91c17164e2f52252f91d5a7e3249ba63c3715c8d418107e99a4e367105f1f0cc
+version: ""
